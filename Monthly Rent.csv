@@ -1,8 +1,3 @@
-"Name","Monthly Rent"
-"Description","The monthly rent (in dollars) agreed to or contracted for, regardless of any furnishings, utilities, fees, meals, or services that may be included.&nbsp;"
-"Source Notes","U.S. Census Bureau, American Community Survey 5-Year Estimates, Table B25056 (2009-2020);&nbsp; retrieved from <a href=""https://data.census.gov/"" target=""_blank"">https://data.census.gov/</a><a href=""http://factfinder2.census.gov/"" target=""_blank""></a>."
-"Notes","Percents refer to the percent of all occupied rental units."
-
 Location,Rent Level,TimeFrame,DataFormat,Data,Fips
 Riverdale,Under $500,2016,Number,2311,208
 Williamsbridge,Under $500,2016,Number,3545,212
